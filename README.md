@@ -126,6 +126,6 @@ com.taller.bookstore
 - `feature/*` → desarrollo de funcionalidades
 
 ## Equipo
-- Desarrollador: [Tu nombre]
+- Desarrollador: Cristian Silva
 - Materia: Desarrollo Empresarial
 - Docente: Javier Charry
