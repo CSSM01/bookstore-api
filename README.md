@@ -41,7 +41,7 @@ http://localhost:8080/api/v1
 http://localhost:8080/api/v1/h2-console
 JDBC URL: jdbc:h2:mem:bookstoredb
 User: sa
-Password: (vacío)
+Password: mijo.2006
 
 ### 5. Documentación Swagger
 
